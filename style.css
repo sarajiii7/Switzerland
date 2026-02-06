@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-image: url(url), -webkit-linear-gradient(270deg,rgba(155,197,237,1.00) 4.15%,rgba(255,255,255,1.00) 46.64%,rgba(139,167,145,1.00) 76.17%,rgba(116,147,111,1.00) 100%,rgba(245,39,42,1.00) 100%,rgba(203,222,240,1.00) 100%);
+    background-image: url(url), -moz-linear-gradient(270deg,rgba(155,197,237,1.00) 4.15%,rgba(255,255,255,1.00) 46.64%,rgba(139,167,145,1.00) 76.17%,rgba(116,147,111,1.00) 100%,rgba(245,39,42,1.00) 100%,rgba(203,222,240,1.00) 100%);
+    background-image: url(url), -o-linear-gradient(270deg,rgba(155,197,237,1.00) 4.15%,rgba(255,255,255,1.00) 46.64%,rgba(139,167,145,1.00) 76.17%,rgba(116,147,111,1.00) 100%,rgba(245,39,42,1.00) 100%,rgba(203,222,240,1.00) 100%);
+    background-image: url(url), linear-gradient(180deg,rgba(155,197,237,1.00) 4.15%,rgba(255,255,255,1.00) 46.64%,rgba(139,167,145,1.00) 76.17%,rgba(116,147,111,1.00) 100%,rgba(245,39,42,1.00) 100%,rgba(203,222,240,1.00) 100%);
+    text-align: justify;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    table-layout: inherit;
+    background-color: #D0DEEB;
+}
+h1 {
+    color: #3A563A;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 35px;
+}
+h2 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #506A50;
+    font-size: x-large;
+}
+h3   {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    color: #48764E;
+    font-size: medium;
+}
+img {
+    height: 137px;
+    width: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+table {
+    background-color: #FFFFFF;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    border-width: 8px;
+    border-style: dashed dotted;
+    border-color: #840002;
+}
+p {
+    color: #9CC0DB;
+    font-style: italic;
+    font-size: medium;
+}
