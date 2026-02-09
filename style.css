@@ -1,3 +1,4 @@
+
 @charset "utf-8";
 /* CSS Document */
 
@@ -36,6 +37,7 @@ img {
 }
 
 table {
+    width: 1000px;
     background-color: #FFFFFF;
     margin-top: auto;
     margin-right: auto;
@@ -50,5 +52,6 @@ p {
     font-style: italic;
     font-size: medium;
 }
+
 
 
